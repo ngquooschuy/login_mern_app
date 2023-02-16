@@ -1,0 +1,14 @@
+{
+    "username.invalid": "Invalid Username",
+    "username.required": "Username must be required",
+    "username.maxlength": "Username must be at least 15 characters",
+    "password.invalid": "Invalid Password",
+    "password.required": "Password must be required",
+    "password.maxlength": "Password must be more than 4 characters long",
+    "password.isSpecialCharacters": "Password must have special character",
+    "password.isMatch": "Password not match",
+    "email.required": "Email must be required",
+    "email.invalid": "Invalid email",
+    "email.isSpecialCharacter": "Email must have @ character"
+
+}
